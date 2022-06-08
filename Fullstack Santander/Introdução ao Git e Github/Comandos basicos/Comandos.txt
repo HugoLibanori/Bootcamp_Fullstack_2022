@@ -1,0 +1,10 @@
+cd → Direciona ao caminho escolhido ex: cd /c/User...
+===========================
+dir → lista os diretórios dentro do destino
+===========================
+mkdir → cria pastas
+===========================
+del → deletas arquivos
+===========================
+rmdir → deleta pastas e arquivos
+===========================
